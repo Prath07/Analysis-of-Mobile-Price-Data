@@ -7,4 +7,4 @@ File: 'Mobile_Price_Data.csv'
 Columns: Various attributes such as battery power, Bluetooth, clock speed, dual sim support, camera specifications, memory, screen dimensions, and more.
 Target Variable: 'price range' (0 for low cost, 1 for medium cost, 2 for high cost, 3 for very high cost)
 
-By Prathamesh Tarde | Student ID: 45946000 | Unit: COMP2200 | Data Science
+By Prathamesh Tarde 
